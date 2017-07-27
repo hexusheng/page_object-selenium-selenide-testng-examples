@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ru.yandex.iml" filepath="$PROJECT_DIR$/ru.yandex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.yandex_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.yandex_main.iml" group="ru.yandex" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.yandex_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.yandex_test.iml" group="ru.yandex" />
+    </modules>
+  </component>
+</project>

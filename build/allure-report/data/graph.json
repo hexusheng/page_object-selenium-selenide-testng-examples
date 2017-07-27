@@ -1,0 +1,80 @@
+{
+  "testCases" : [ {
+    "uid" : "4c5f084aee5c17bd",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085221189,
+      "stop" : 1501085238707,
+      "duration" : 17518
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "8a0b2a8fa53ecd80",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085991049,
+      "stop" : 1501085998607,
+      "duration" : 7558
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fc0f2926cb189a26",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501086013504,
+      "stop" : 1501086020385,
+      "duration" : 6881
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "5ae2199ef5e5f51e",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085870347,
+      "stop" : 1501085877501,
+      "duration" : 7154
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "6b1384a46535d84f",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085968181,
+      "stop" : 1501085975092,
+      "duration" : 6911
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "100aae24c64cdb46",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085527065,
+      "stop" : 1501085534321,
+      "duration" : 7256
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "71b91977ce97274f",
+    "name" : "testCanLoginAsValidUser",
+    "title" : "Test can login as valid user",
+    "time" : {
+      "start" : 1501085610472,
+      "stop" : 1501085624733,
+      "duration" : 14261
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}

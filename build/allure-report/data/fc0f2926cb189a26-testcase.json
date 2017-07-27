@@ -1,0 +1,59 @@
+{
+  "uid" : "fc0f2926cb189a26",
+  "name" : "testCanLoginAsValidUser",
+  "title" : "Test can login as valid user",
+  "time" : {
+    "start" : 1501086013504,
+    "stop" : 1501086020385,
+    "duration" : 6881
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "c055b2358b6ad877",
+    "name" : "Gradle suite : Gradle test",
+    "title" : "Gradle suite : Gradle test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "u"
+  }, {
+    "name" : "thread",
+    "value" : "25009@u.Test worker(10)"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.yandex.tests.LoginTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testGroup",
+    "value" : "Gradle test"
+  }, {
+    "name" : "testSuite",
+    "value" : "Gradle suite"
+  }, {
+    "name" : "suite-title",
+    "value" : "Gradle suite : Gradle test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testCanLoginAsValidUser"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.yandex.tests.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-26T16:20:13" hostname="u" time="6.964">
+  <properties/>
+  <testcase name="testCanLoginAsValidUser" classname="ru.yandex.tests.LoginTest" time="6.964"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8) on port 16739
+Only local connections are allowed.
+Jul 26, 2017 5:20:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Jul 26, 2017 5:20:15 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: BrowserName=chrome Version=59.0.3071.115 Platform=LINUX
+Jul 26, 2017 5:20:15 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenide v. 4.4.3
+Jul 26, 2017 5:20:15 PM com.codeborne.selenide.webdriver.WebDriverFactory createWebDriver
+INFO: Selenium WebDriver v. 3.4.0 build time: unknown
+Jul 26, 2017 5:20:15 PM com.codeborne.selenide.impl.WebDriverThreadLocalContainer createDriver
+INFO: Create webdriver in current thread 10: ChromeDriver -> ChromeDriver: chrome on LINUX (03315961728405111701d70324f5a9bb)
+]]></system-err>
+</testsuite>
